@@ -7,6 +7,14 @@ Online Resources(DONE):
 
 
 freeCodeCamp([JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)):
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Basic JavaScript
+- [x] ES6
+- [x] Regular Expressions
+- [x] Debugging
+- [x] Basic Data Structures
+- [x] Basic Algorithm Scripting
+- [x] Object Oriented Programming
+- [x] Functional Programming
+- [ ] Intermediate Algorithm Scripting
+- [ ] JavaScript Algorithms and Data Structures Projects
+
